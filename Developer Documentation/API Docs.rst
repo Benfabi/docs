@@ -27,7 +27,7 @@ Commandline Example with Curl:
 .. code-block:: bash
 
   curl -d "{}" -H "X-API-Key: BA00B76BAA30F62E1940B46CC1C3C73C"
-      https://support.you.tld/api/tickets.json
+      https://support.you.tld/api/http.php/tickets.json
     
 Wrappers
 --------
